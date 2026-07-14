@@ -95,4 +95,8 @@ Certification Achivement
 
 Live Demo Link -->
 
+<!-- Video Link -->
 <!-- https://www.youtube.com/watch?v=roE8FIfCQLU -->
+
+<!-- Github Profile link -->
+<!-- https://github.com/touhidcodes -->
