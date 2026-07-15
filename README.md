@@ -74,16 +74,6 @@
 
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-### GitHub Contributions:
-
-![Snake Grid](https://github.com/ramen72/contribution-snake/blob/output/grid.svg)
-
-### GitHub Statistics:
-
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=ramen72&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramen72&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a>
-
-### Won
-
 ![](https://github-readme-stats.vercel.app/api?username=ramen72&show_icons=true&theme=tokyonight)
 
 <!-- Graph -->
@@ -99,6 +89,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=ramen72&theme=onedark)
 
 <!-- Graph -->
+
+### GitHub Contributions:
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ramen72&theme=tokyo-night)
 
