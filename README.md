@@ -78,11 +78,12 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramen72&theme=tokyonight)
 
+<br/>
 ### GitHub Contributions:
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ramen72&theme=tokyo-night)
 
-</b>
+<br/>
 
 ### Featured Projects
 
