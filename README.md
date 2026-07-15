@@ -76,6 +76,8 @@
 
 <!-- Graph -->
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> Graph</b>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramen72&theme=tokyonight)
 
 <br/>
