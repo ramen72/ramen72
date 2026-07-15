@@ -82,7 +82,7 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ramen72&theme=tokyo-night)
 
----
+</b>
 
 ### Featured Projects
 
