@@ -86,7 +86,7 @@
 
 <br/>
 
-### Featured Projects
+### <b>Featured Projects:</b>
 
 - RentNest
 - Pharmacy Management
