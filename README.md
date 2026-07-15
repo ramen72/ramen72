@@ -1,26 +1,28 @@
 <p align="center">
 <img src="https://repository-images.githubusercontent.com/330349275/281486b8-097d-4fdb-a4a5-92fc485f920c"/>
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/banner.png" width="100%">
-</p>
+</p> -->
 
-# Hi 👋 I'm Ramen Biswas
-
-### Full Stack MERN Developer
+<!--- title --->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Ramen Biswas</h1></summary>
+    <!--- typo --->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer;MERN+Stack+Web+Developer;JavaScript+Enthusiast" alt="Typing SVG" /></a>
+  </ul>
+</div>
 
 💻 Passionate about Web Development
 
-🌱 Currently learning
+<!-- 🌱 Currently learning -->
 
-- Next.js
-- TypeScript
-- Prisma
-- PostgreSQL
-
-📍 Bangladesh
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+Developer;Node+Developer;TypeScript+Developer)](https://git.io/typing-svg)
+- 🖥️ I’m currently working on React.js, Next.js, Typescript and Redux for frontend development.
+- 🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.
+- 💬 Ask me about Full-Stack (Next.js, React.js, Tailwind.ccs, Redux).
+- 🌐 Explore My Portfolio <a href="https://ramen.devsramen.com">Ramen</a>.
+  📍 Bangladesh
 
 ### Connect with me
 
@@ -66,17 +68,17 @@
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=ramen72&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ramen72&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramen72&layout=compact&theme=tokyonight)
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![](https://komarev.com/ghpvc/?username=ramen72)
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=ramen72&theme=onedark)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=ramen72&theme=tokyo-night)
 
 ## Featured Projects
 
