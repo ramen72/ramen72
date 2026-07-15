@@ -24,67 +24,21 @@
 - 🌐 Explore My Portfolio <a href="https://ramen.devsramen.com">Ramen</a>.
   📍 Bangladesh
 
-### Connect with me
+<!--- socials --->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
 
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](YOUR_FACEBOOK)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge)](YOUR_PORTFOLIO)
-
-## Tech Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=ts"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=redux"/>
-
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=prisma"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-</p>
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ramen72&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ramen72&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramen72&layout=compact&theme=tokyonight)
-
-![](https://komarev.com/ghpvc/?username=ramen72)
-
-![](https://github-profile-trophy.vercel.app/?username=ramen72&theme=onedark)
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=ramen72&theme=tokyo-night)
+<div>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/ramen-biswas-329280316" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="ramen72" height="30" width="40" /></a>
+  </p>
+</div>
 
 <br/>
 
 <!--- technology --->
 
-## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+## <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECH STACK:</b>
 
 ### Languages:
 
@@ -115,6 +69,20 @@
 [![Tools & Technologies](https://skillicons.dev/icons?i=git,github,notion,vscode,postman)](https://github.com/ramen72)
 
 <br/>
+
+## GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=ramen72&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ramen72&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramen72&layout=compact&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=ramen72)
+
+![](https://github-profile-trophy.vercel.app/?username=ramen72&theme=onedark)
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ramen72&theme=tokyo-night)
 
 ## Featured Projects
 
