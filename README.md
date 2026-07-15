@@ -72,7 +72,7 @@
 
 <!--- statistics --->
 
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> <b> GITHUB STATISTICS & ANALYSIS:</b>
 
 <!-- Graph -->
 
@@ -80,7 +80,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramen72&theme=tokyonight) -->
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="20"><b>GitHub Contributions:</b>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="20"><b> GitHub Contributions:</b>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ramen72&theme=tokyo-night)
 
