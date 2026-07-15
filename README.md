@@ -33,6 +33,10 @@
     <a href="https://www.linkedin.com/in/ramen-biswas-329280316" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="ramen72" height="30" width="40" /></a>
     <a href="https://github.com/ramen72" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="ramen72" height="30" width="40" /></a>
   </p>
+  <p>
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ramen-biswas-329280316)
+  [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/ramen72)
+  </p>
 </div>
 
 <br/>
