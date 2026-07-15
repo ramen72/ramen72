@@ -14,9 +14,7 @@
   </ul>
 </div>
 
-💻 Passionate about Web Development
-
-<!-- 🌱 Currently learning -->
+💻 About Web Development
 
 - 🖥️ I’m currently working on React.js, Next.js, Typescript and Redux for frontend development.
 - 🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.
@@ -30,8 +28,9 @@
 
 <div>
   <p align="left">
-    <a href="https://www.linkedin.com/in/ramen-biswas-329280316" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="ramen72" height="30" width="40" /></a>
     <a href="https://github.com/ramen72" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="ramen72" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/ramen-biswas-329280316" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="ramen72" height="30" width="40" /></a>
+    <a href="https://x.com/RamenBi68387575" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="ramen72" height="30" width="40" /></a>
   </p>
 </div>
 
