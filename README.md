@@ -80,13 +80,11 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramen72&theme=tokyonight) -->
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="20"><b> GitHub Contributions:</b>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> GitHub Contributions Graph:</b>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ramen72&theme=tokyo-night)
 
-<br/>
-
-### <b>Featured Projects:</b>
+### <b>Featured Projects</b>
 
 - RentNest
 - Pharmacy Management
@@ -96,6 +94,8 @@
 ---
 
 <!-- Profile View -->
+
+### <b>Profile View</b>
 
 ![](https://komarev.com/ghpvc/?username=ramen72)
 
