@@ -74,32 +74,28 @@
 
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-![](https://github-readme-stats.vercel.app/api?username=ramen72&show_icons=true&theme=tokyonight)
-
 <!-- Graph -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramen72&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramen72&layout=compact&theme=tokyonight)
-
-<!-- Profile View -->
-
-![](https://komarev.com/ghpvc/?username=ramen72)
-
-![](https://github-profile-trophy.vercel.app/?username=ramen72&theme=onedark)
-
-<!-- Graph -->
 
 ### GitHub Contributions:
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ramen72&theme=tokyo-night)
 
-## Featured Projects
+---
+
+### Featured Projects
 
 - RentNest
 - Pharmacy Management
 - The Legal House
 - Social Media App
+
+---
+
+<!-- Profile View -->
+
+![](https://komarev.com/ghpvc/?username=ramen72)
 
 <!-- .github/workflows/snake.yml
 
