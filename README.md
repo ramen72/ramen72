@@ -76,12 +76,11 @@
 
 <!-- Graph -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> Graph</b>
+<!-- ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="20"><b> Graph</b>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ramen72&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ramen72&theme=tokyonight) -->
 
-<br/>
-### GitHub Contributions:
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="20"><b>GitHub Contributions:</b>
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ramen72&theme=tokyo-night)
 
